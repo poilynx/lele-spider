@@ -22,10 +22,10 @@ $ php5 spider-daemon.php
 
 # 存储地址样例
 
-电影专栏	/dyzl/..[42]
-电视剧专栏	/dsjzl/sgnb/sgnb25.mp4
-动画专栏	/dhzl/hmjzzfczx[42].mp4
-高清专栏	/gqzl/xltfn[42].mp4
-经典视频	/jdsp/yidongmigong[42].mp4
+电影专栏	/dyzl/..[42]  
+电视剧专栏	/dsjzl/sgnb/sgnb25.mp4  
+动画专栏	/dhzl/hmjzzfczx[42].mp4  
+高清专栏	/gqzl/xltfn[42].mp4  
+经典视频	/jdsp/yidongmigong[42].mp4  
 
 
