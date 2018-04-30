@@ -4,15 +4,19 @@
 
 2015-11-8
 
-##运行
+## 运行
+
+执行守护进程前需要进行一些简单配置
+* 修改config.php内相应的目录
+* 修改spider-daemon.php文件中的数据库连接配置
 
 执行安装脚本,创建必要的目录及数据表
-```
+```sh
 $ bash install.sh
 ```
 
 运行蜘蛛守护进程
-```
+```sh
 $ php5 spider-daemon.php
 ```
 
